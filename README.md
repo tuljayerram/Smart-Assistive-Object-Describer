@@ -4,13 +4,13 @@ An AI-powered assistive system that helps visually impaired individuals identify
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Visually impaired individuals face daily challenges in recognizing and identifying objects around them, which affects their independence and safety. Traditional aids such as white canes or guide dogs mainly assist with obstacle detection but do not provide information about the *identity* of objects. This project bridges that gap by converting visual information into meaningful audio descriptions using AI.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To design a **portable, affordable, and user-friendly assistive device** that:
 
@@ -20,7 +20,7 @@ To design a **portable, affordable, and user-friendly assistive device** that:
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 The system works in a continuous loop:
 
@@ -33,7 +33,7 @@ The system works in a continuous loop:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Hardware
 
@@ -53,7 +53,7 @@ The system works in a continuous loop:
 
 ---
 
-## 📊 Results
+##  Results
 
 * Real-time object detection at 5–10 FPS on Raspberry Pi Zero 2W
 * Direction-based announcements (left / right / ahead)
@@ -61,7 +61,7 @@ The system works in a continuous loop:
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 * Real-time AI-based object detection
 * Direction-aware audio feedback
@@ -71,7 +71,7 @@ The system works in a continuous loop:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Voice command interaction
 * OCR for text and currency recognition
@@ -82,7 +82,7 @@ The system works in a continuous loop:
 
 ---
 
-## 📚 Learnings
+##  Learnings
 
 * Implemented real-time object detection on resource-constrained hardware
 * Optimized AI inference for embedded systems
@@ -91,7 +91,7 @@ The system works in a continuous loop:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Tulja Yerram**
 B.E –  Major in Electronics and Communication Engineering
